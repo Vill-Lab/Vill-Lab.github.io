@@ -25,7 +25,7 @@ author: VILL
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://https://testvill.github.io'
+url: 'https://testvill.github.io'
 baseurl: '/'
 
 # This URL points directly to the images directory making

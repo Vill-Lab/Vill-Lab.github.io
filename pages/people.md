@@ -21,7 +21,7 @@ permalink: "/people/"
    
    		name="Cairong Zhao" 
    		title="Professor" 
-   		<!-- photo="/images/people/LiZhang.jpg"  -->
+   		photo="/images/people/LiZhang.jpg" 
    		website="http://www.baidu.com" 
    		google="https://baidu.com" 
    		email="test@tongji.edu.cn"

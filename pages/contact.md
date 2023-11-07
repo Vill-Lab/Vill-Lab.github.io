@@ -8,6 +8,6 @@ header:
 permalink: "/contact/"
 ---
 
-Xinjinbo, 539 Handan Road, Yangpu, Shanghai
+4800 Cao'an Road, Jiading District, Shanghai, China
 
 {% include map.html %}

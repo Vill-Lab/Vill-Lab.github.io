@@ -17,15 +17,15 @@ slogan: '@ Fudan University'
 description: 'Welcome to the homepage of the Zhang Vision Group at Fudan Univeristy'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p>Created by Zheyuan Zhou</p>'
+credits: '<p>Created by VILL</p>'
 
 # Main author of the website
 # See > authors.yml
-author: Zheyuan Zhou
+author: VILL
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://fudan-zvg.github.io'
+url: 'https://https://testvill.github.io'
 baseurl: '/'
 
 # This URL points directly to the images directory making

@@ -3,7 +3,7 @@
 layout: frontpage
 header:
   image_fullwidth:
-title: "Zhang Vision Group - Fudan University"
+title: "VILL - Tongji University"
 
 sidebar: right
 

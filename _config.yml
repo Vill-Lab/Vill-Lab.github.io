@@ -8,13 +8,13 @@
 #                                                 /____/
 #
 # Title of your website
-title: 'Zhang Vision Group'
+title: 'VILL'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: '@ Fudan University'
+slogan: '@ Tongji University'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: 'Welcome to the homepage of the Zhang Vision Group at Fudan Univeristy'
+description: 'Welcome to the homepage of the VILL at Tongji University'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
 credits: '<p>Created by VILL</p>'

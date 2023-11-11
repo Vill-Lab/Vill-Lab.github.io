@@ -1,10 +1,10 @@
 
 - title: Profile
-  url: "/profile/"
+  url: "/"
   side: left
 
 - title: Home
-  url: "/"
+  url: "/home/"
   side: left
 
 - title: "People"

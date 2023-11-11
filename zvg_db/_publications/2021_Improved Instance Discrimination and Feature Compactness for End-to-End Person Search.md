@@ -5,5 +5,6 @@ category: "vision"
 author_list: "Shaowei Hou; Cairong Zhao; Zhicheng Chen; Jun Wu; Zhihua Wei; Duoqian Miao"
 pub_in: "IEEE TCSVT"
 pdf_url: "https://ieeexplore.ieee.org/document/9438639"
+code_url: "https://github.com/Vill-Lab/2021-TCSVT-IIDFC"
 img_path1: "IIDFC.png"
 ---

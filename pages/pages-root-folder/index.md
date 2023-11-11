@@ -1,45 +1,55 @@
 ---
-
-layout: frontpage
+layout: profile
+show_meta: false
+title: "Cairong Zhao - VILL lab"
+subheadline: ""
+teaser: 
 header:
-  image_fullwidth:
-title: "VILL - Tongji University"
-
-sidebar: right
-
-permalink: /index.html
+   image_fullwidth: 
+permalink: "/index.html"
 homepage: true
 
 ---
 
-<div class="row" style= "margin-top: 30px; max-height: 540px; margin-left: 1%">
-    <div class="light-section mt-6 mb-6">
-      <h3 class="section-title">Breaking News</h3>
-      <ul class="timeline col-md-6 off-md-6">
-        {% for n in site.news %}
-          {% include news_item.html 
-              news_date=n.news_date 
-              title=n.title 
-              year=n.year 
-              news_content=n.news_content 
-              link=n.link 
-              link2=n.link2
-              link3=n.link3
-              link4=n.link4
-              link5=n.link5
-          %}
-        {% endfor %}
-      </ul>
-  </div>
-</div>
+# <span style="color:#527bbd;">VILL Lab </span>
+<br>
 
-<div class="pc dark-section" style="">
-  <br>
-  <h3 class="section-title"> Join the Group </h3> 
-  
-  <p>We are currently looking to hire talented students.
-  <br>
-  If you are highly creative, have top grades/coding skill and interested in joining our group please do not hesitate to send your CV and transcripts of grades to <a href="mailto:test@tongji.edu.cn">test@tongji.edu.cn </a></p>
-  
 
-</div>
+**Zhao Cairong**
+
+Professor
+
+School of Electronic and Information Engineering
+
+Tongji University
+
+---
+<br>
+## <span style="color:#527bbd;">Brief Biography</span>
+
+Cairong Zhao Served as a researcher at the Hong Kong Polytechnic University, in 2016 and 2017.
+He is currently a Professor at School of Electronic and Information Engineering, **Tongji University**.
+Professor Zhao currently holds various important positions, including the Director of the Computer Vision Committee of the Shanghai Computer Society, Deputy Secretary-General of Pattern Recognition and Machine Intelligence of Chinese Association of Automation,  Distinguished Member of the China Computer Federation, and Senior Member of China Society of Image and Graphics. His research interests include computer vision and pattern recognition. Professor Zhao serves as a Guest Editor for IEEE Transactions on Multimedia (TMM) and holds the position of Associate Editor for IET IP.
+He has published **more than 50 scientific papers in CVPR/ICLR/ICML/AAAI/ACM MM/ICCV,etc**, and served as a reviewer for journals and conferences including **TPAMI/TMM/TCSVT/TNNLS/TYCB/CVPR/ICCV/ECCV/AAAI, etc.**
+<br>
+
+---
+
+## <span style="color:#527bbd;">Research Interests </span>
+
+- Computer Vision
+- Security
+- Autonomous Driving
+
+Currently research focuses on artificial intelligence, computer vision, machine learning, data mining, etc. Primarily focusing on fields including **Person Re-IDentification**, scene text detection and recognition, intelligent classification of X-ray images, facial recognition and **security defense**, **Fundamental Machine Learning** and **Noise Learning**.
+
+<br>
+
+---
+
+## <span style="color:#527bbd;"> News and Updates </span>
+
+- **Oct 2023：**Our work to appear in IEEE TIFS
+- **JUN 2023：**Our paper to appear in IEEE TII 
+
+<br>

@@ -30,12 +30,12 @@ owner:
   avatar: cairongZhao.jpg
  # bio:
   email: zhaocairong@tongji.edu.cn
-  cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
+  # cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  group github: testvill
-  github: testvill
+  group github: Vill-Lab
+  github: Vill-Lab
   # linkedin: hanlincai
-  scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
+  scholar: https://scholar.google.com.hk/citations?user=z-XzWZcAAAAJ&hl=zh-CN
   # bilibili: 594030035
   # researchgate: https://www.researchgate.net/profile/Hanlin-Cai
   # zhihu: https://www.zhihu.com/people/chlire
@@ -57,7 +57,7 @@ baseurl: '/'
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://fudan-zvg.github.io/images/'
+urlimg: 'https://testvill.github.io/images/'
 
 
 # Logo size is 600x80 pixels
@@ -126,7 +126,7 @@ defaults:
       show_meta: false 	# Hide metadata for all pages
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: Zheyuan Zhou     # Default author for pages
+      author: Zheyuan Zhou, Wentao     # Default author for pages
   -
     scope:
       path: ''
@@ -135,7 +135,7 @@ defaults:
       show_meta: true   # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: Zheyuan Zhou     # Default author for posts
+      author: Zheyuan Zhou, Wentao     # Default author for posts
 
 
 
@@ -314,6 +314,9 @@ collections:
     output: true
     sort_by: "name"
 
+  graduated:
+    output: true
+    sort_by: "name"
   news:
     output: true
 

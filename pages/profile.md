@@ -6,7 +6,8 @@ subheadline: ""
 teaser: 
 header:
    image_fullwidth: 
-permalink: "/profile/"
+permalink: "/profile1/"
+
 ---
 
 # <span style="color:#527bbd;">VILL Lab </span>

@@ -1,3 +1,8 @@
+
+- title: Profile
+  url: "/profile/"
+  side: left
+
 - title: Home
   url: "/"
   side: left
@@ -10,9 +15,9 @@
   url: "/publication/"
   side: left
 
-- title: "Project"
-  url: "/project/"
-  side: left
+# - title: "Project"
+#   url: "/project/"
+#   side: left
 
 - title: "Contact"
   url: "/contact/"

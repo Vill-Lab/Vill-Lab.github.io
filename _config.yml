@@ -23,6 +23,29 @@ credits: '<p>Created by VILL</p>'
 # See > authors.yml
 author: VILL
 
+# professor information
+owner:
+  lab: VILL Lab
+  name: Cairong Zhao
+  avatar: cairongZhao.jpg
+ # bio:
+  email: zhaocairong@tongji.edu.cn
+  cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
+  # Social networking links are used in author-bio sidebar. Update and remove as you like.
+  group github: testvill
+  github: testvill
+  # linkedin: hanlincai
+  scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
+  # bilibili: 594030035
+  # researchgate: https://www.researchgate.net/profile/Hanlin-Cai
+  # zhihu: https://www.zhihu.com/people/chlire
+  # facebook: caihanlin2002
+  # instagram: lancecai2002
+  # lastfm:
+  # tumblr:
+  # For Google Authorship https://plus.google.com/authorship
+  # google_plus:
+
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
 url: 'https://testvill.github.io'

@@ -6,5 +6,5 @@ website:
 note:
 category: Graduated Students
 photo: "/images/people/graduated/LuXinDi.jpg" 
-
+date: 20220101
 ---

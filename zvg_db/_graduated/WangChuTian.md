@@ -3,8 +3,8 @@ name: Chutian Wang
 title:
 email: 
 website: 
-note:
+note: 
 category: Graduated Students
 photo: "/images/people/graduated/WangChuTian.png" 
-date: 20020101
+date: 20010101
 ---

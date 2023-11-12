@@ -6,5 +6,5 @@ website:
 note:
 category: Graduated Students
 photo: "/images/people/graduated/FengShuYang.jpg" 
-date: 20070101
+date: 20060101
 ---

@@ -18,16 +18,21 @@ permalink: "/people/"
 	<h2 class="section-title">Principal Investigator</h2>
 
 	{% assign url = site.url %}
-    {% include member.html 
+	{% assign teacher = site.researcher | sort: "date"  %}
+	{% for a in teacher %}
+    	{% include member.html 
    
-   		name="Cairong Zhao" 
-   		title="Professor" 
-   		photo="/images/people/cairongZhao.jpg" 
-   		website=url
-   		google="https://scholar.google.com.hk/citations?user=z-XzWZcAAAAJ&hl=zh-CN" 
-   		email="zhaocairong@tongji.edu.cn"
-   
-   	%}
+			name=a.name
+			title=a.title
+			photo= a.photo
+			website=url
+			google=a.google
+			email=a.email
+	
+   		%}		
+		<hr/>
+	{% endfor %}
+
 	
 	<hr/>
 

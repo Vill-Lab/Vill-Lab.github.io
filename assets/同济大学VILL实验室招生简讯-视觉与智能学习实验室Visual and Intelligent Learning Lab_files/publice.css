@@ -1,0 +1,48 @@
+﻿/** 通用样式 **/
+body, h1, h2, h3, h4, h5, h6, hr, p, blockquote, dl, dt, dd, ul, ol, li, pre, form, fieldset, legend, button, input, textarea, th, td, img{border:medium none;margin: 0;padding: 0;}
+body,button, input, select, textarea{font: 12px/1.5 'Simsun',tahoma, Srial, helvetica, sans-serif;}
+h1, h2, h3, h4, h5, h6{font-size: 100%;font-weight: normal;}
+em{font-style:normal;}
+ul, ol{list-style: none;}
+a{text-decoration: none;color:#333;outline: none;}
+a:hover{text-decoration: none;}
+fieldset, img { border: medium none; vertical-align: middle;}
+body a{outline:none;blr:expression(this.onFocus=this.blur());}
+a:focus {outline:none;-moz-outline:none;}
+a:hover{text-decoration: none;color:#AD1730;  -moz-transition: all 0.3s ease-in; -webkit-transition: all 0.3s ease-in; -o-transition: all 0.3s ease-in; transition: all 0.3s ease-in; }
+/*li:hover{ -moz-transition: all 0.3s ease-in; -webkit-transition: all 0.3s ease-in; -o-transition: all 0.3s ease-in;transition: all 0.3s ease-in;}*/
+/*火狐去掉按钮、连接的虚线*/
+a:focus, a:active,
+button::-moz-focus-inner,
+input[type="reset"]::-moz-focus-inner,
+input[type="button"]::-moz-focus-inner,
+input[type="submit"]::-moz-focus-inner,
+select::-moz-focus-inner,
+input[type="file"] > input[type="button"]::-moz-focus-inner {
+border: 0;
+outline : 0;
+}
+a:hover{text-decoration: none;}
+body a{outline:none;blr:expression(this.onFocus=this.blur());}
+a:focus {outline:none;-moz-outline:none;}
+a{blr:expression(this.onFocus=this.blur());}
+a.hidefocus{outline:none} 
+
+img:hover{ -moz-transition: all 0.3s ease-in; -webkit-transition: all 0.3s ease-in; -o-transition: all 0.3s ease-in; transition: all 0.3s ease-in;}
+.clearfix:after{clear:both;content:"\200B";display:block;height:0;}
+.clearfix{*zoom:1;}
+.fl{float:left;}
+.clear{clear: both;}
+.fr{float:right;}
+.w1200{width:1200px; height:auto; margin:0 auto;}
+.hide{display:none}
+.a3a3a2{color: #a3a3a2;}
+input,textarea,select{font-family: "微软雅黑";}
+*{margin:0;padding:0;list-style-type:none;}
+a,img{border:0;text-decoration:none;}
+body{font-family: "微软雅黑";background: #fff;}
+
+/*****************0000000000000000000*************************/
+
+
+

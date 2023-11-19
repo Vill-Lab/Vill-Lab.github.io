@@ -17,7 +17,6 @@ permalink: "/people/"
 
 	<h2 class="section-title">Principal Investigator</h2>
 
-	{% assign url = site.url %}
 	{% assign teacher = site.researcher | sort: "date"  %}
 	{% for a in teacher %}
     	{% include member.html 
@@ -25,7 +24,7 @@ permalink: "/people/"
 			name=a.name
 			title=a.title
 			photo= a.photo
-			website=url
+			website=a.urll
 			google=a.google
 			email=a.email
 	

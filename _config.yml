@@ -48,7 +48,7 @@ owner:
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://testvill.github.io'
+url: 'https://vill-lab.github.io'
 baseurl: '/'
 
 # This URL points directly to the images directory making
@@ -57,7 +57,7 @@ baseurl: '/'
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://testvill.github.io/images/'
+urlimg: 'https://vill-lab.github.io/images/'
 
 
 # Logo size is 600x80 pixels

@@ -1,5 +1,5 @@
 ---
-name: TuChuYu
+name: ChuYu Tu
 title: Master Student
 email: derekray@foxmail.com
 website: 

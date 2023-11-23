@@ -1,5 +1,5 @@
 ---
-name: Miaoran
+name: Ran Miao
 title: Master Student
 email: 2233054@tongji.edu.cn
 website: 

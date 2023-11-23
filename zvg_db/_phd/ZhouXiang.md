@@ -1,5 +1,5 @@
 ---
-name: Zhouxiang
+name: Xiang Zhou
 title: PhD Student
 email: 
 website: 

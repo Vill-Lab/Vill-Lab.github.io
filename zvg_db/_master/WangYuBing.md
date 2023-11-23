@@ -1,5 +1,5 @@
 ---
-name: YuBing Wang
+name: Yubing Wang
 title: Master Student
 email: 2230793@tongji.edu.cn
 website: 

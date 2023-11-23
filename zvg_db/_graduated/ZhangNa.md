@@ -1,5 +1,5 @@
 ---
-name: ZhangNa
+name: Na Zhang
 title:
 email: 
 website: 

@@ -1,5 +1,5 @@
 ---
-name: ChenKang
+name: Kang Chen
 title:
 email: 
 website: 

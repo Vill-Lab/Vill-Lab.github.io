@@ -1,5 +1,5 @@
 ---
-name: QiaoRui Wu
+name: Qiaorui Wu
 title: Master Student
 email: 
 website: 

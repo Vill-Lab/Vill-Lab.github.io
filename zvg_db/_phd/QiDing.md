@@ -1,5 +1,5 @@
 ---
-name: Qiding
+name: Ding Qi
 title: PhD Student
 email: 2011267@tongji.edu.cn
 website: 

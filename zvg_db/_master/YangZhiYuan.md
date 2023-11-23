@@ -1,5 +1,5 @@
 ---
-name: YangZhiYuan
+name: Zhiyuan Yang
 title: Master Student
 email: 
 website: 

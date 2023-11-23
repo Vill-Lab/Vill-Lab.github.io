@@ -1,5 +1,5 @@
 ---
-name: HuLiang
+name: Liang Hu
 title: Professor
 photo: "/images/people/HuLiang.jpg" 
 # google= https://scholar.google.com.hk/citations?user=z-XzWZcAAAAJ&hl=zh-CN 

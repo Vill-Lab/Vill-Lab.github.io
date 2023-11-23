@@ -1,5 +1,5 @@
 ---
-name: Shurui
+name: Rui Shu
 title: Master Student
 email: 2133056@tongji.edu.cn
 website: 

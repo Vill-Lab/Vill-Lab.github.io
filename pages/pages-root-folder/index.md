@@ -64,6 +64,7 @@ Currently research focuses on artificial intelligence, computer vision, machine 
 
 ## <span style="color:#527bbd;"> News and Updates </span>
 
+- **Dec 2023：**Our works to appear in AAAI 24
 - **Oct 2023：**Our work to appear in IEEE TIFS
 - **JUN 2023：**Our paper to appear in IEEE TII 
 
